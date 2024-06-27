@@ -3,8 +3,8 @@
 # Meu nome é Gustavo Werneck
 
 - Estou estudando na [alura](https://www.alura.com.br/)
-- Estou me desenvolvendo em na linguagem de Java Script
-- Utilizando est espaço para organização  compartilhamento dos meus projetos desenvolvidos
+- Estou me desenvolvendo e na linguagem de Java Script
+- Utilizando este espaço para organização compartilhamento dos meus projetos desenvolvidos
 
 
 # Você pode entrar em contato comigo 📫
